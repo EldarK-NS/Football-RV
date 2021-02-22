@@ -1,0 +1,23 @@
+//! goalsDifferStore:[]
+
+//! points = []
+
+//! pointsStore:[]
+
+//! scoredGoalsStore:[]
+
+//!concededGoals
+
+//!concededGoalsSum
+
+//!gameInfo
+
+//!goalsDiffer=[] 
+
+//!goalsDifferStoreSum
+
+//!pointsRes
+
+//!scoredGoals:[]
+
+//!scoredGoalsSum
