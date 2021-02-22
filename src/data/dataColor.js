@@ -1,0 +1,26 @@
+const dataColor = {
+    "Liverpool": '(60, 180, 75)',
+    "West Ham": '(230, 25, 75)',
+    "Bournemouth": '(255, 225, 25)',
+    "Burnley": '(0, 130, 200)',
+    "Crystal Palace": '(245, 130, 48)',
+    "Watford": '(145, 30, 180)',
+    "Tottenham": '(70, 240, 240)',
+    "Leicester": '(240, 50, 230)',
+    "Newcastle": '(210, 245, 60)',
+    "Man United": '(250, 190, 212)',
+    "Arsenal": '(0, 128, 128)',
+    "Aston Villa": '(220, 190, 255)',
+    "Brighton": '(170, 110, 40)',
+    "Everton": '(255, 250, 200)',
+    "Norwich": '(128, 0, 0)',
+    "Southampton": '(170, 255, 195)',
+    "Man City": '(128, 128, 0)',
+    "Sheffield United": '(255, 215, 180)',
+    "Chelsea": '(0, 0, 128)',
+    "Wolves": '(128, 128, 128)',
+    "Cardiff": '(72,6,7)',
+    "Fulham": '(239,48,56)',
+    "Huddersfield": '(253,233,16)'
+}
+export default dataColor;

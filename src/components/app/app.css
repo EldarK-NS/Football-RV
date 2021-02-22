@@ -1,0 +1,9 @@
+.row {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.pl {
+    display: block;
+    padding-left: 150px;
+}

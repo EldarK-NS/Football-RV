@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+    flex-direction: row;
+}
+.menu {
+    flex-grow: 1;
+    margin-left: 50px;
+}
